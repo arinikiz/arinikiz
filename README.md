@@ -1,8 +1,7 @@
 <h1 align="center">Arin Ikizogullari</h1>
 
 <p align="center">
-  <b>Engineer & Builder</b> — from systems programming to machine learning.<br>
-  CS student driven by challenging problems, deep technical understanding, and hands-on software development.
+  Student @ Sabanci University - Exchange Semester @ City University of Hong Kong
 </p>
 
 <p align="center">
@@ -15,7 +14,7 @@
 
 ### `whoami`
 
-4th Year Computer Science & Engineering student at **Sabancı University** (CGPA 3.65), with an exchange term at **City University of Hong Kong** (GPA 3.56) covering Operating Systems, Internet Security Protocols, Artificial Intelligence, AI Game Programming, Software Design, and Global IT Case Studies. Drawn to the engineering side of computer science, I enjoy building systems, solving complex problems, and creating software from first principles. I value deep technical understanding and hands-on development over abstractions.
+I'm a 4th Year Computer Science & Engineering student at Sabancı University (CGPA 3.65), with an exchange term at City University of Hong Kong (GPA 3.56) covering Operating Systems, Internet Security Protocols, Artificial Intelligence, AI Game Programming, Software Design, and Global IT Case Studies. Drawn to the engineering side of computer science, I enjoy building systems, solving complex problems, and creating software from first principles. I value deep technical understanding and hands-on development over abstractions.
 
 ### `stack`
 
